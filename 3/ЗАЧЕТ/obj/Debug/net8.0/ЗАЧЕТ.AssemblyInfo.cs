@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ЗАЧЕТ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc97f1a9d1e7e8d25dd909a78156bff3ba82c04c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ЗАЧЕТ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ЗАЧЕТ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

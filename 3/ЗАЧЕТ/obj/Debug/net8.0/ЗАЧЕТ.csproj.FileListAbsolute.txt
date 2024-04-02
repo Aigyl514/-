@@ -1,0 +1,15 @@
+C:\Users\Комп\Desktop\Зачет\3\ЗАЧЕТ\obj\Debug\net8.0\ЗАЧЕТ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Комп\Desktop\Зачет\3\ЗАЧЕТ\obj\Debug\net8.0\ЗАЧЕТ.AssemblyInfoInputs.cache
+C:\Users\Комп\Desktop\Зачет\3\ЗАЧЕТ\obj\Debug\net8.0\ЗАЧЕТ.AssemblyInfo.cs
+C:\Users\Комп\Desktop\Зачет\3\ЗАЧЕТ\obj\Debug\net8.0\ЗАЧЕТ.csproj.CoreCompileInputs.cache
+C:\Users\Комп\Desktop\Зачет\3\ЗАЧЕТ\obj\Debug\net8.0\ЗАЧЕТ.sourcelink.json
+C:\Users\Комп\Desktop\Зачет\3\ЗАЧЕТ\bin\Debug\net8.0\ЗАЧЕТ.exe
+C:\Users\Комп\Desktop\Зачет\3\ЗАЧЕТ\bin\Debug\net8.0\ЗАЧЕТ.deps.json
+C:\Users\Комп\Desktop\Зачет\3\ЗАЧЕТ\bin\Debug\net8.0\ЗАЧЕТ.runtimeconfig.json
+C:\Users\Комп\Desktop\Зачет\3\ЗАЧЕТ\bin\Debug\net8.0\ЗАЧЕТ.dll
+C:\Users\Комп\Desktop\Зачет\3\ЗАЧЕТ\bin\Debug\net8.0\ЗАЧЕТ.pdb
+C:\Users\Комп\Desktop\Зачет\3\ЗАЧЕТ\obj\Debug\net8.0\ЗАЧЕТ.dll
+C:\Users\Комп\Desktop\Зачет\3\ЗАЧЕТ\obj\Debug\net8.0\refint\ЗАЧЕТ.dll
+C:\Users\Комп\Desktop\Зачет\3\ЗАЧЕТ\obj\Debug\net8.0\ЗАЧЕТ.pdb
+C:\Users\Комп\Desktop\Зачет\3\ЗАЧЕТ\obj\Debug\net8.0\ЗАЧЕТ.genruntimeconfig.cache
+C:\Users\Комп\Desktop\Зачет\3\ЗАЧЕТ\obj\Debug\net8.0\ref\ЗАЧЕТ.dll
